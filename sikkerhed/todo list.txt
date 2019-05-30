@@ -1,0 +1,55 @@
+logging
+  login: done
+  new comment: done
+  register: done
+  file uploaded:
+
+user groups (admin, moderator, user)
+  edit comments: ?
+  delete Comments: done
+
+make all sql calls into prepared statments
+
+user on a different ip the usual
+
+confirm user with email?
+
+file saving
+  add file: done
+  list files: done
+
+sha1/sha256/md5 til usikker password
+
+
+sikkerheds update
+
+Loging ind
+kodeord kryptering: done
+
+Filsystem
+Tjekke nye filer:?
+Ikke lade overwrite gamle filer:done
+delete fil:done
+Max liv tid:?
+Report filer:done
+navne på filer kan bruges som css?:
+
+Kommentar
+Tjekke kommentare for script:done
+Report kommentar: done
+Adgang til at ændre kommentar hvis man lavede den: done
+  Log gamle kommentar og hvad den blev ændret til: done
+
+General beskyttelse
+Blokering af ip ved unormal aktivitet
+Database adgangskontrol:done
+Sql Prepared statements:done
+
+
+database
+update password to be encrypted
+kommentar report:done
+
+
+rapport:
+udvikling Slutte kommentare

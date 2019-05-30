@@ -1,0 +1,22 @@
+logging
+  login: done
+  new comment: done
+  register: done
+  file uploaded:
+
+user groups (admin, moderator, user)
+  edit comments: not going to be done
+  delete Comments: done
+
+make all sql calls into prepared statments
+
+user on a different ip the usual
+
+confirm user with email?
+
+file saving
+  add file: done
+  list files: done
+
+logging changes in files
+logging changes port opening
